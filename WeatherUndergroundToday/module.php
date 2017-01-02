@@ -2,7 +2,7 @@
 
 include_once(__DIR__ . '/../shared/BaseModule.php');
 
-class WundergroundWeatherToday extends IPSBaseModule
+class WeatherUndergroundToday extends IPSBaseModule
 {
     protected $config = array('wut_api_key', 'wut_location', 'wut_interval');
 
