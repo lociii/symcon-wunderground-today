@@ -1,0 +1,18 @@
+{
+    "elements": [
+        {"type": "Label", "label": "Service settings"},
+        {"type": "ValidationTextBox", "name": "wut_api_key", "caption": "API Key"},
+        {"type": "Label", "label": "User settings"},
+        {"type": "ValidationTextBox", "name": "wut_location", "caption": "ZMW code"},
+        {"type": "Label", "label": "Module settings"},
+        {"type": "IntervalBox", "name": "wut_interval", "caption": "(in minutes)"}
+    ],
+    "actions": [
+        {"type": "Button", "label": "Update", "onClick": "LOCIWUT_Update($id);"}
+    ],
+    "status": [
+        {"code": 101, "icon": "active", "caption": "Instance is getting created!"},
+        {"code": 102, "icon": "active", "caption": "Instance is active!"},
+        {"code": 104, "icon": "inactive", "caption": "Instance is inactive!"}
+    ]
+}

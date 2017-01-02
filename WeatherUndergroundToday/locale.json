@@ -1,0 +1,13 @@
+{
+    "translations": {
+        "de": {
+            "Service settings": "Dienst-Einstellungen",
+            "API Key": "API Schlüssel",
+            "User settings": "Benutzer-Einstellungen",
+            "ZMW code": "ZMW code",
+            "Module settings": "Modul-Einstellungen",
+            "(in minutes)": "(in Minuten)",
+            "Update": "Aktualisieren"
+        }
+    }
+}

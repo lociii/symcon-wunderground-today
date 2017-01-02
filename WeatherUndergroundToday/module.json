@@ -1,0 +1,13 @@
+{
+    "id": "{57AE6ABE-59DA-4398-9ADA-8E99426738C8}",
+    "name": "WeatherUndergroundToday",
+    "type": 3,
+    "vendor": "LociSymcon",
+    "aliases": [
+        "Weather Underground (today)"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "LOCIWUT"
+}
