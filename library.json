@@ -1,9 +1,17 @@
 {
-    "id": "{0968D418-04DD-44C7-844E-3EBF35551FAC}",
-    "author": "Jens 'loci' Nistler",
-    "name": "Weather underground today",
-    "url": "http://github.com/lociii/symcon-wunderground-today",
-    "version": "1.0",
-    "build": 0,
-    "date": 0
+  "id": "{0968D418-04DD-44C7-844E-3EBF35551FAC}",
+  "author": "Jens 'loci' Nistler",
+  "title": "Weather underground today",
+  "description": "Get weather updates for the current day"
+  "name": "Weather underground today",
+  "url": "http://github.com/lociii/symcon-wunderground-today",
+  "version": "1.0",
+  "build": 0,
+  "date": 0,
+  "tags": [
+    "weather", "today",
+    "Wetter", "Heute",
+    "wunderground", "weather underground", "underground"
+  ],
+  "req_ips_version": "4.1"
 }
