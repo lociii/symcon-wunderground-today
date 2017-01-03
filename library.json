@@ -1,9 +1,9 @@
 {
   "id": "{0968D418-04DD-44C7-844E-3EBF35551FAC}",
   "author": "Jens 'loci' Nistler",
-  "title": "Weather underground today",
-  "description": "Get weather updates for the current day",
-  "name": "Weather underground today",
+  "name": "WeatherUndergroundToday",
+  "title": "Das Wetter von Heute",
+  "description": "Ermittlung von Temperatur, Feuchtigkeit, Windgeschwindigkeit und Niederschlagsvorhersage für den laufenden Tag an einem beliebigen Standort (ZMW)",
   "url": "http://github.com/lociii/symcon-wunderground-today",
   "version": "1.0",
   "build": 0,

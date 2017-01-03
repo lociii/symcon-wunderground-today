@@ -1,5 +1,5 @@
 # Weather Underground today
-Ermittlung von Temperatur, Feuchtigkeit, Windgeschwindigkeit und Niederschlagsvorhersage fuer den laufenden Tag anhand einer ZMW (Standort)
+Ermittlung von Temperatur, Feuchtigkeit, Windgeschwindigkeit und Niederschlagsvorhersage fuer den laufenden Tag an einem beliebigen Standort (ZMW)
 
 ### Inhaltverzeichnis
 
