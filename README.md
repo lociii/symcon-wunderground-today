@@ -1,3 +1,7 @@
+# UNMAINTAINED
+This project is not maintained anymore. Feel free to fork and use it.
+No support nor development will be done!
+
 # Weather Underground today
 Ermittlung von Temperatur, Feuchtigkeit, Windgeschwindigkeit und Niederschlagsvorhersage fuer den laufenden Tag an einem beliebigen Standort (ZMW)
 
